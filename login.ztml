@@ -69,7 +69,7 @@
 			?>
 		</div>
 		<div id="zlogin_wrapper">
-			<div id="zlogin_header"><a href="./"><img src="etc/styles/CstyleX/images/login_zpanel_logo.png" width="216" height="70" /></a></div>
+			<div id="zlogin_header"><a href="./"><img src="etc/styles/CstyleX/images/bv_panel_logo.png" width="210" height="70" /></a></div>
 			<div id="zlogin_box">
 			<?php if (isset($_GET['resetkey'])) { ?>
 				<!-- BEGIN CONFIRMATION-->
